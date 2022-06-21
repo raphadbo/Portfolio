@@ -127,6 +127,7 @@ padding-right: 50px;
 
 .about-me .img-container img{
 width: 70%;
+border: 5px solid var(--green);
 }
 
 .title-purple{
